@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-acho "ALX School is socool!"
-=======
-acho "ALX School"
->>>>>>> update_script
+acho "ALX School is so cool!"
